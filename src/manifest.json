@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "emmiter.bug.joplin",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "emitter leaking",
+	"description": "emitter leaking",
+	"author": "a",
+	"homepage_url": "a",
+	"repository_url": "a",
+	"keywords": []
+}
